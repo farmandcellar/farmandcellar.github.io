@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Farm + Cellar
+email: hello@farmandcellar.com
+description: > # this means to ignore newlines until "baseurl:"
+  Farm + Cellar brings your brand to life. Leveraging smartly produces
+  media, Farm + Cellar tells your story.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://farmandcellar.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
