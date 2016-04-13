@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Farm + Cellar
+title: Farm+Cellar
 email: hello@farmandcellar.com
 description: > # this means to ignore newlines until "baseurl:"
-  Farm + Cellar brings your brand to life. Leveraging smartly produces
-  media, Farm + Cellar tells your story.
+  Farm+Cellar brings your brand to life. Leveraging smartly produces
+  media, Farm+Cellar tells your story.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://farmandcellar.github.io/"
 twitter_username: farmandcellar
