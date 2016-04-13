@@ -12,9 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Farm + Cellar brings your brand to life. Leveraging smartly produces
   media, Farm + Cellar tells your story.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://farmandcellar.com" # the base hostname & protocol for your site
+url: "https://farmandcellar.github.io/"
 twitter_username:
-github_username:
+github_username: farmandcellar
 
 # Build settings
 markdown: kramdown
