@@ -8,4 +8,4 @@ Thank you for visiting Farm+Cellar. We’d love to hear from you. Please send yo
 
 [anais@farmandcellar.com](mailto:anais@farmandcellar.com)
 
-(510) 387-5932
+[(510) 387-5932](tel:+15103875932)
