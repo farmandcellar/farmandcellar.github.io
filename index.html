@@ -3,19 +3,24 @@ layout: default
 ---
 
 <div class="home">
+    <p class="bigtext">
+        Farm+Cellar brings your brand to life. Leveraging smartly
+        produced media, Farm+Cellar tells your story.
+    </p>
 
-    <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+    <div class="flexslider">
+        <ul class="slides">
+            <li>
+                <iframe src="https://player.vimeo.com/video/102146964" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </li>
+            <li>
+                <iframe src="https://player.vimeo.com/video/54884451" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </li>
+            <li>
+                <iframe src="https://player.vimeo.com/video/18798243?color=cccccc&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </li>
+            <li>
+                <iframe src="https://player.vimeo.com/video/94537667" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </li>
+        </ul>
+    </div>

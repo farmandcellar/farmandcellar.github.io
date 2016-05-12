@@ -69,3 +69,14 @@ blockquote footer div.quote-name {
     display: inline-block;
     font-size: 1.2em;
 }
+
+.home {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    width: 640px;
+}
+
+/* flexslider override */
+.home .flex-direction-nav a {
+    height: inherit
+}
