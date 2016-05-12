@@ -5,9 +5,13 @@ permalink: /testimonials/
 ---
 
 <blockquote>
+<p>
 Every single aspect of working with Farm & Cellar in general, and with Anaïs Radonich Galvin in particular, was wonderful. The quality of the work was wonderful. The quality of professionalism and conscientiousness were wonderful. Anaïs' qualities of organization and leadership were all one could ever have asked for. The finished work was beyond my most idealistic expectations.
+</p>
 
+<p>
 If you're reading this because you're considering whether to do your film project with F&C, believe me: just make the call and tell them yes. You will never have cause to regret it.
+</p>
 
 <footer>
 <div class="quote-name">Terry Theise</div>
@@ -17,9 +21,13 @@ If you're reading this because you're considering whether to do your film projec
 
 
 <blockquote>
+<p>
 If you are looking for a video producer who will honor the authenticity and passion of your producers and growers, I recommend most highly Anaïs Radonich Galvin of Farm & Cellar.
+</p>
 
+<p>
  Our company project involved 19 producers in Burgundy, France, as well as three California wine brands. My goal was to produce videos that deliver the producer’s message, from the heart, and not the typical wine marketing videos. Anaïs’s broad knowledge of wine and warm compassion put everyone at ease and her attention to detail, organizational skills, preplanning and scripting made the job seem easy. The outcome was beautifully edited, educational, succinct and emotional pieces that I will forever be proud of.
+</p>
 
  <footer>
  <div class="quote-name">Angela Bortugno</div>
@@ -28,8 +36,10 @@ If you are looking for a video producer who will honor the authenticity and pass
  </blockquote>
 
 
- <blockquote>
+<blockquote>
+<p>
  We cannot recommend Farm & Cellar highly enough. Ctuit Software was impressed with Farm & Cellar from budgeting to filming to post production. Their flexibility, professionalism and attention to detail greatly enhanced the final videos. We look forward to working with them on future projects.
+ </p>
 
  <footer>
  <div class="quote-name">Denise Pepp</div>
@@ -39,7 +49,9 @@ If you are looking for a video producer who will honor the authenticity and pass
 
 
  <blockquote>
+ <p>
  The words that come to mind are; authentic, powerful, creative, genuine, and truly evocative storytelling. This is how I felt after working with Anaïs and Farm+Cellar.
+ </p>
 
  <footer>
  <div class="quote-name">Courtney Kingston</div>
