@@ -53,7 +53,7 @@ $on-laptop:        800px;
 ;
 
 body {
-    background-image: url('/img/gradient_bg.jpg');
+    background: #000 url('/img/gradient_bg.jpg') no-repeat;
 
     .site-header {
         border-bottom: none;
