@@ -14,9 +14,9 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #b4b6a6;
+$background-color: #000;
+$brand-color:      #fff;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -52,6 +52,17 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+body {
+    background-image: url('/img/gradient_bg.jpg');
+
+    .site-header {
+        border-bottom: none;
+    }
+
+    .site-footer {
+        border-top: none;
+    }
+}
 
 blockquote {
     border-left: none;
