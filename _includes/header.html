@@ -19,9 +19,22 @@
             <div class="trigger">
                 {% for my_page in site.pages %}
                     {% if my_page.title %}
-                        <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                        <a class="page-link"
+                           itemprop="url"
+                           href="{{ my_page.url | prepend: site.baseurl }}">
+                            <span itemprop="name">
+                                {{ my_page.title }}
+                            </span>
+                        </a>
                     {% endif %}
                 {% endfor %}
+                <a class="page-link"
+                   itemprop="url"
+                   href="http://terrytheisemovie.com/">
+                    <span itemprop="name">
+                        Documentary
+                    </span>
+                </a>
             </div>
         </nav>
 
