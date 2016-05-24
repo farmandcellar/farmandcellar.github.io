@@ -22,11 +22,8 @@
                     {% if my_page.title %}
                         <a class="page-link"
                            itemprop="url"
-                           href="{{ my_page.url | prepend: site.baseurl }}">
-                            <span itemprop="name">
-                                {{ my_page.title }}
-                            </span>
-                        </a>
+                           href="{{ my_page.url | prepend: site.baseurl }}"
+                        ><span itemprop="name">{{ my_page.title }}</span></a>
                     {% endif %}
                 {% endfor %}
                 <a class="page-link"
