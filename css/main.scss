@@ -98,10 +98,16 @@ blockquote footer div.quote-name {
 
 .home {
     margin: 0 auto;
-    width: 640px;
+    width: 940px;
 }
 
-/* flexslider override */
+/* flexslider overrides */
+.home .flexslider {
+    background: none;
+    border: none;
+    text-align: center;
+}
+
 .home .flex-direction-nav a {
     height: inherit
 }
