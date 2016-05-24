@@ -52,11 +52,26 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('/fonts/BebasNeue-webfont.eot');
+    src: url('/fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/BebasNeue-webfont.woff') format('woff'),
+    url('/fonts/BebasNeue-webfont.ttf') format('truetype'),
+    url('/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     background: #000 url('/img/gradient_bg.jpg') no-repeat;
 
     .site-header {
         border-bottom: none;
+
+        .site-title {
+            opacity: 0;
+        }
     }
 
     .site-footer {
@@ -99,7 +114,9 @@ blockquote footer div.quote-name {
     padding: 20px;
     background-image: url('/img/field_1140.jpg');
     background-repeat: no-repeat;
+}
 
+.about-page {
     p {
         font-size: 1.1em;
         color: #fff;
@@ -117,4 +134,27 @@ blockquote footer div.quote-name {
 
 nav.site-nav a {
     box-sizing: content-box;
+}
+
+.wineglass {
+    height: 236px;
+    width: 160px;
+    background-image: url('/img/wineglass.gif');
+    background-size: 160px;
+}
+
+.bigtext {
+    color: white;
+    min-height: 400px;
+    opacity: 0;
+    transition: opacity 0.2s linear;
+    text-shadow: #000 0px 0px 30px;
+    font-family: 'BebasNeueRegular', Arial, sans-serif;
+    letter-spacing: 1px;
+    line-height: initial;
+    text-align: justify;
+    width: 200px;
+    position: relative;
+    left: 40px;
+    top: 30px;
 }

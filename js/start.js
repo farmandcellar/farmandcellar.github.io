@@ -1,4 +1,7 @@
 $(document).ready(function() {
+    $('#bigtext').bigtext().css('opacity', 1);
+    $('.site-title').fadeTo('slow', 1);
+
     // Vimeo API nonsense
     var player = document.getElementById('player_1');
     $f(player).addEvent('ready', ready);
