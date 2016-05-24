@@ -8,7 +8,7 @@
 # Site settings
 title: Farm+Cellar
 email: hello@farmandcellar.com
-description: > # this means to ignore newlines until "baseurl:"
+description: "Farm+Cellar is a video production agency that specializes in food and wine."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://farmandcellar.github.io/"
 twitter_username: farmandcellar
