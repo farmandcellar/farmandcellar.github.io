@@ -6,7 +6,7 @@ permalink: /about-us/
 
 <div class="col-sm-4">
 <p>
-We are pioneers and thought leaders in marketing wine, travel and food. Leveraging smartly produced video with the latest in webs tools and technology, we bring your story to life.
+We are pioneers and thought leaders in marketing wine, travel and food. Leveraging smartly produced video with the latest in web tools and technology, we bring your story to life.
 </p>
 </div>
 
