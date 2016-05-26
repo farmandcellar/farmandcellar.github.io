@@ -10,7 +10,7 @@ title: Farm+Cellar
 email: hello@farmandcellar.com
 description: "Farm+Cellar is a video production agency that specializes in food and wine."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.farmandcellar.com/"
+url: "http://www.farmandcellar.com/"
 twitter_username: farmandcellar
 github_username:
 
