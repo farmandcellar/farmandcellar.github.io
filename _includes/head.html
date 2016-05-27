@@ -13,4 +13,23 @@
   <link rel="stylesheet" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name" "Farm + Cellar",
+      "url": "http://www.farmandcellar.com",
+      "email": "hello@farmandcellar.com",
+      "telephone": "+1-510-387-5932",
+      "location": "San Francisco, CA, USA",
+      "logo": "http://www.farmandcellar.com/img/blacklogo.png",
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "email": "hello@farmandcellar.com",
+        "telephone": "+1-510-387-5932",
+        "contactType": "sales"
+      }]
+    }
+  </script>
 </head>
