@@ -8,7 +8,7 @@
 # Site settings
 title: Farm+Cellar
 email: hello@farmandcellar.com
-description: "Farm+Cellar is a video production agency that specializes in food and wine."
+description: "Farm+Cellar is a video production and marketing company that specializes in boutique wineries and artisan products."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.farmandcellar.com/"
 twitter_username: farmandcellar
