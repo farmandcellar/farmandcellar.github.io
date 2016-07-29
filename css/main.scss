@@ -137,6 +137,10 @@ nav.site-nav a {
     box-sizing: content-box;
 }
 
+.site-nav {
+    z-index: 2;
+}
+
 .wineglass {
     height: 236px;
     width: 160px;
