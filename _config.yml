@@ -18,6 +18,9 @@ logo: /img/blacklogo.png
 twitter:
   username: farmandcellar
 
+facebook:
+  publisher: essenceofeating
+
 # Build settings
 markdown: kramdown
 
