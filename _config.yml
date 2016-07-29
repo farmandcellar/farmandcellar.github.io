@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.farmandcellar.com"
 twitter_username: farmandcellar
 github_username: farmandcellar
+logo: /img/blacklogo.png
 
 twitter:
   username: farmandcellar
