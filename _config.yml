@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Farm+Cellar
+title: Farm + Cellar
 email: hello@farmandcellar.com
 description: "Farm+Cellar is a video production and marketing company that specializes in boutique wineries and artisan products."
 baseurl: "" # the subpath of your site, e.g. /blog
